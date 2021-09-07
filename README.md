@@ -16,3 +16,11 @@ I run with Python 3 an I'm usin Anaconda an Jupyter.
 ### Mandatory cheat sheet for jupyter
 
 [Link](https://raw.githubusercontent.com/d-prieto/David-aprende-data-science-con-Python/main/Jupyter%20Notebook%20Cheat%20Sheet.pdf)
+
+## Sources of python tutorials
+
+https://www.w3schools.com/python/default.asp
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science (requires registration)
+
+https://docs.hektorprofe.net/python/ (in Spanish)
