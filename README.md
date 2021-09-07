@@ -24,3 +24,13 @@ https://www.w3schools.com/python/default.asp
 https://www.datacamp.com/courses/intro-to-python-for-data-science (requires registration)
 
 https://docs.hektorprofe.net/python/ (in Spanish)
+
+### Cheatsheets of python
+
+https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheatsheet%20python/Python%20Basic%20CheatSheet.pdf
+
+https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheatsheet%20python/python-tutorial.pdf (full tutorial from 2014, python 2.7)
+
+https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheatsheet%20python/Python3%20CheatSheet%201.png
+
+https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheatsheet%20python/Python3%20CheatSheet%202.png
