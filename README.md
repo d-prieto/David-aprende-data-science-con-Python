@@ -40,3 +40,9 @@ https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheat
 This is the extra repository (they needed this way) to work in the first things of Jupyther and Markdown 
 
 https://github.com/d-prieto/Jupyter_Markdown
+
+## Second sprint 
+
+This the exercise of data structures (dictionaries, lists and such)
+
+https://github.com/d-prieto/estructures_dades
