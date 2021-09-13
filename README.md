@@ -43,6 +43,10 @@ https://github.com/d-prieto/Jupyter_Markdown
 
 ## Second sprint 
 
-This the exercise of data structures (dictionaries, lists and such)
+These are the exercises of data structures (dictionaries, lists and such)
 
 https://github.com/d-prieto/estructures_dades
+
+These are the exercises of flow structures:
+
+https://github.com/d-prieto/estructures_control
