@@ -35,6 +35,8 @@ https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheat
 
 https://github.com/d-prieto/David-aprende-data-science-con-Python/raw/main/Cheatsheet%20python/Python3%20CheatSheet%202.png
 
+Other cheatsheets by Datacamp https://www.datacamp.com/community/data-science-cheatsheets
+
 ## First sprint
 
 This is the extra repository (they needed this way) to work in the first things of Jupyther and Markdown 
@@ -50,3 +52,9 @@ https://github.com/d-prieto/estructures_dades
 These are the exercises of flow structures:
 
 https://github.com/d-prieto/estructures_control
+
+### Numpy 
+
+Tutorial of Numpy https://www.w3schools.com/python/numpy/numpy_intro.asp
+
+numpy cheatsheet from Datacamp http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54
