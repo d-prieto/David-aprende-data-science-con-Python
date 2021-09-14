@@ -58,3 +58,7 @@ https://github.com/d-prieto/estructures_control
 Tutorial of Numpy https://www.w3schools.com/python/numpy/numpy_intro.asp
 
 numpy cheatsheet from Datacamp http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54
+
+Exercices on numpy 1:
+
+https://github.com/d-prieto/programaci-_Num-rica/blob/main/README.md
