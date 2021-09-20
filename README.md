@@ -62,3 +62,7 @@ numpy cheatsheet from Datacamp http://datacamp-community-prod.s3.amazonaws.com/d
 Exercices on numpy 1:
 
 https://github.com/d-prieto/programaci-_Num-rica/blob/main/README.md
+
+Exercices on numpy 2: 
+
+https://github.com/d-prieto/imatges_numpy/blob/main/README.md
