@@ -66,3 +66,7 @@ https://github.com/d-prieto/programaci-_Num-rica/blob/main/README.md
 Exercices on numpy 2: 
 
 https://github.com/d-prieto/imatges_numpy/blob/main/README.md
+
+Exercise about image manipulation: 
+
+https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%208.ipynb
