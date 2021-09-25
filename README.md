@@ -70,3 +70,8 @@ https://github.com/d-prieto/imatges_numpy/blob/main/README.md
 Exercise about image manipulation: 
 
 https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%208.ipynb
+
+
+## Pandas 
+
+https://tutswiki.com/pandas-cookbook/
