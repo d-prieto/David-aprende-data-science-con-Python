@@ -74,4 +74,8 @@ https://github.com/d-prieto/imatges_numpy/blob/main/S03%20T02%20Exercici%208.ipy
 
 ## Pandas 
 
+Panda means "panel data" but I think of the Panda bear. It's kind of a datasheet reader and processer. 
+
 https://tutswiki.com/pandas-cookbook/
+
+https://itacademy.barcelonactiva.cat/pluginfile.php/5065/mod_resource/content/3/PandasCheatSheet.pdf
