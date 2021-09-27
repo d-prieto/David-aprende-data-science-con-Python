@@ -79,3 +79,5 @@ Panda means "panel data" but I think of the Panda bear. It's kind of a datasheet
 https://tutswiki.com/pandas-cookbook/
 
 https://itacademy.barcelonactiva.cat/pluginfile.php/5065/mod_resource/content/3/PandasCheatSheet.pdf
+
+https://www.tutorialspoint.com/python_pandas/python_pandas_groupby.htm
